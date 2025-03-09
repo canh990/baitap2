@@ -1,0 +1,72 @@
+.s{
+    background-color: rgb(44, 39, 39);
+    
+}
+.nav-container{
+    display: flex;
+    justify-content: space-between; 
+    padding: 20px;
+    
+}
+.logo{
+    color: rgb(241, 241, 241);
+   margin: 14px;
+    justify-content: center;
+   
+
+}
+
+.menu li{
+    display: inline-block;
+    list-style: none;
+    text-decoration :none ;
+   
+}
+li a{
+    text-decoration: none;
+    margin: 3px;
+    color: white;
+}
+.chao{
+    background-color: rgb(31, 31, 245);
+    padding: 15px;
+}
+.wc{
+   padding: 10px;
+    margin: 45px;
+    color: aliceblue;
+    
+}
+
+.hihi{
+    display: flex;
+    background-color: rgb(235, 235, 235);
+  
+    padding: 50px;
+
+    
+}
+
+.read{
+   width: 70%;
+   text-align: left;
+   margin: 20px;
+}
+.Find{
+    text-align: left;
+   width: 25%;
+   margin: 20px;
+}
+button{
+    background-color: blue;
+    color: aliceblue;
+    width: 150px;
+    height: 50px;
+}
+footer{
+    background-color: rgb(44, 39, 39);
+    padding: 5px;
+    text-align: center;
+    color: azure;
+
+}
